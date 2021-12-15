@@ -18,4 +18,15 @@ from module1 import *
 #D=square(a)
 #print(D)
 #4
-print(season(5))
+#print(astaajad(5))
+#5
+#a=int(input("Напиши количество вложенных денег: "))
+#years=int(input("На сколько лет: "))
+#D=bank(a,years)
+#print(D)
+#6
+#arv=int(input("Введи число: "))
+#D=is_prime(arv)
+#print(D)
+#7
+#print(date())
