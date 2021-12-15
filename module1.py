@@ -53,12 +53,46 @@ def arithmetic(x:int,y:int,z:str):
 	#return D
 	#return P
 #4
-#def season(m:int):
+#def astaajad(m:int):
 #    if m in (12,1,2):
-#        return "Зима"
+#        return "talvel"
 #    elif m in (3,4,5):
-#        return "Весна"
+#        return "kevad"
 #    elif m in (6,7,8):
-#        return "Лето"
+#        return "suvi"
 #    elif m in (9,10,11):
-#        return "Осень"
+#        return "sügis"
+# else:
+#       m!=(1,2,3,4,5,6,7,8,9,10,11,12):
+#                 print("Tundumatu kuu")
+
+#5
+#def bank(a:float, years:int):
+	#"""
+	#:parem float a: raha
+	# :parem int years: aastad 
+	# :
+	#"""
+	#D=years-2021
+	#while D!=0:
+		#D-=1
+		#a=a/100*10+a
+		#print(float(a))
+		#return a
+#6
+#def is_prime(arv:int):
+	#"""
+	#:parem int a: number
+	#"""
+	#t=0
+	#for i in range(1, arv+1):
+		#if arv%i==0: t+=1
+		#if t==2:
+			#t=True
+		#else:
+			#t=False
+	#return t
+#7
+#from datetime import *
+#def date(day:int, month:int, year:int):
+	#date(year,month,day)
