@@ -18,5 +18,4 @@ from module1 import *
 #D=square(a)
 #print(D)
 #4
-from module1 import *
 print(season(5))
